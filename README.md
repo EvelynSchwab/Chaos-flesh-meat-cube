@@ -1,4 +1,4 @@
-# ChaosFleshMeatCube
+# Chaos Flesh Meat Cube
 
 ## Overview
 Small project recreating the [meat cube shown as part of the UE3 demo](https://www.youtube.com/watch?v=imPJ9a1KwEw) from GDC 2008.
